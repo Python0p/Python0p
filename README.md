@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
 <h3 align="center">AIML and Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/jQpr7bmRyjXk09Namc/giphy.gif?cid=6c09b952zhrfu7lja42bvtgjju4xq04duygp1h7alapkhgdn&ep=v1_stickers_related&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python0p&label=Profile%20views&color=0e75b6&style=flat" alt="python0p" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=python0p" alt="python0p" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/jQpr7bmRyjXk09Namc/giphy.gif?cid=6c09b952zhrfu7lja42bvtgjju4xq04duygp1h7alapkhgdn&ep=v1_stickers_related&rid=giphy.gif&ct=s">
+
 
 - 🌱 I’m currently learning **Django Flask Docker and FastAPI**
 
